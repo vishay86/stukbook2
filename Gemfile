@@ -47,5 +47,6 @@ group :development do
   gem "twitter-bootstrap-rails"
   gem 'simple_form'
   gem 'devise'
+  gem 'gravatarify', '~> 3.0.0'
 end
 
